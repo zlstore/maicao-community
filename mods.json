@@ -16,32 +16,5 @@
     "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop",
     "downloadUrl": "https://example.com/mods/reshade.zip",
     "category": "Presets"
-  },
-  {
-    "id": "3",
-    "name": "Nuvens 4K Ultra",
-    "description": "Substitui as nuvens originais por texturas em altíssima resolução.",
-    "roleId": "000000000000000000",
-    "imageUrl": "https://images.unsplash.com/photo-1496450681664-3df8a8405f15?q=80&w=2070&auto=format&fit=crop",
-    "downloadUrl": "https://example.com/mods/clouds.zip",
-    "category": "Textures"
-  },
-  {
-    "id": "4",
-    "name": "Sombras Dinâmicas",
-    "description": "Sombras mais suaves e realistas que reagem à luz do sol.",
-    "roleId": "999999999999999999",
-    "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2072&auto=format&fit=crop",
-    "downloadUrl": "https://example.com/mods/shadows.zip",
-    "category": "Lighting"
-  },
-  {
-    "id": "5",
-    "name": "Vegetação Tropical",
-    "description": "Substitui as árvores e plantas por modelos mais detalhados e tropicais.",
-    "roleId": "1503446687018909780",
-    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=2070&auto=format&fit=crop",
-    "downloadUrl": "https://example.com/mods/veg.zip",
-    "category": "Vegetation"
   }
 ]
