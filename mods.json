@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "GRÁFICO REALISTA PVP 1.0",
-    "description": "Melhora as texturas e iluminação para um realismo impressionante no FiveM.",
+    "description": "Transforme o visual do FiveM com gráficos realistas, cores vibrantes e iluminação aprimorada, mantendo excelente desempenho e FPS estável. Conta com diversos presets otimizados para PvP, gameplay competitiva e PCs leves, entregando qualidade visual sem comprometer a performance",
     "roleId": "1505037103707193426",
     "imageUrl": "https://i.imgur.com/sMOAP8W.png",
     "downloadUrl": "https://github.com/zlstore/maicao-community/releases/download/Graficos/MOD.GRAFICO.PVP.1.0.zip",
@@ -10,9 +10,9 @@
   },
   {
     "id": "2",
-    "name": "Cores Vibrantes + ReShade",
-    "description": "Aumenta a saturação e o contraste para cores mais vivas e nítidas.",
-    "roleId": "876543210987654321",
+    "name": "GRÁFICO REALISTA RP 1.0",
+    "description": "Leve o realismo do FiveM para outro nível com visuais cinematográficos, iluminação ultra realista e cores extremamente detalhadas, criando uma experiência que parece gerada por IA. Desenvolvido para servidores RP, o gráfico entrega ambientação imersiva, reflexos aprimorados, sombras profundas e qualidade visual impressionante sem perder fluidez durante a gameplay.",
+    "roleId": "1505157584934666380",
     "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop",
     "downloadUrl": "https://example.com/mods/reshade.zip",
     "category": "Presets"
